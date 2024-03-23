@@ -1,10 +1,5 @@
 # Aahar
 
-<a href="https://github.com/AtharvaKulkarniIT/Aahar"><img src="https://visitor-badge.laobi.icu/badge?page_id=AtharvaKulkarniIT.Aahar" alt="Visitors"/></a>
-<a href="https://github.com/AtharvaKulkarniIT/Aahar/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/Aahar" alt="Stars Badge"/></a>
-<a href="https://github.com/AtharvaKulkarniIT/Aahar/network/members"><img src="https://img.shields.io/github/forks/AtharvaKulkarniIT/Aahar" alt="Forks Badge"/></a>
-<a href="https://github.com/AtharvaKulkarniIT/Aahar/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AtharvaKulkarniIT/Aahar?color=green"></a>
-
 This repository houses a comprehensive system developed using Node.js, Express, EJS, Bootstrap, and MongoDB. The system facilitates the seamless coordination of surplus food donations from donors to NGOs or local food banks, optimizing the process through dynamic assignment of delivery agents.
 
 ## Features
