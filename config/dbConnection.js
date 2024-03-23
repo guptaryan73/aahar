@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const MONGO_URI='mongodb://127.0.0.1:27017/DatabaseFood';
+const MONGO_URI='mongodb+srv://mehul:user123@mehul.vbhme6g.mongodb.net/mehul';
 const connectDB = async() => {
 	try
 	{
