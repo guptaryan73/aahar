@@ -10,6 +10,16 @@ This repository houses a comprehensive system developed using Node.js, Express, 
 - **Real-time Updates:** Keep donors, agents, and receivers informed with real-time status updates.
 - **Responsive Design:** Bootstrap ensures a visually appealing and responsive UI across devices.
 
+
+## Demo
+
+![Image 1](images/PHOTO-2024-05-22-10-55-47.jpg)
+![Image 2](images/PHOTO-2024-05-22-10-56-37.jpg)
+![Image 3](images/PHOTO-2024-05-22-10-55-59.jpg)
+![Image 4](images/PHOTO-2024-06-02-19-31-51.jpg)
+![Image 5](images/PHOTO-2024-06-02-19-34-06.jpg)
+
+
 ## Setup Instructions
 
 1. **Clone the repository:**
